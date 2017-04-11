@@ -1,0 +1,6 @@
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.exe
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\bin\Debug\InterfacePractice.pdb
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.csprojResolveAssemblyReference.cache
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.exe
+F:\Christopher Jomel Z. Tan Work Files\Code Repositories\InterfacePractice\InterfacePractice\obj\Debug\InterfacePractice.pdb
